@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/naveen-manoj-56549925a/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a>
-  <a href = "mailto:manojnaveen085@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=manojnaveen085@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/u/manojnaveen085/" target="_blank"><img height="30" src="https://img.shields.io/badge/-LeetCode-%23333?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank"></a>
 </div>
 
