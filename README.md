@@ -3,7 +3,7 @@
   Backend Developer and Machine Learning Engineer turning complex ideas into robust APIs and data-driven insights.
 </h3>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/naveen-manoj-56549925a/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -13,9 +13,9 @@
   <a href="https://leetcode.com/u/manojnaveen085/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/-LeetCode-%23333?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-</div>
+</p>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -49,15 +49,7 @@
 
 # 📊 Stats
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=neevan0842&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="200" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevan0842&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200" />
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=neevan0842&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevan0842&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200" />
+</div>
