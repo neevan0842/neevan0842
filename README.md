@@ -49,7 +49,7 @@
 
 # 📊 Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=neevan0842&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevan0842&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=neevan0842&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="186em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevan0842&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="186em" />
 </div>
