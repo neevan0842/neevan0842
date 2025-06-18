@@ -1,21 +1,29 @@
-<h1 align="center">Hi 👋, I'm Naveen Manoj</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=230&section=header&text=Hi%20👋,%20I'm%20Naveen%20Manoj&fontSize=45&fontAlign=50&fontColor=ffffff" />
+</div>
+
 <h3 align="center">
   Backend Developer and Machine Learning Engineer turning complex ideas into robust APIs and data-driven insights.
 </h3>
 
+<br>
+
+# Connect with me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/naveen-manoj-56549925a/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:manojnaveen085@gmail.com" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img height="30" src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/manojnaveen085/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/-LeetCode-%23333?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img height="30" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
+<br>
 
-# 💻 Tech Stack
+# Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,7 +55,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-# 📊 Stats
+<br>
+
+# Stats
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://nirzak-streak-stats.vercel.app/?user=neevan0842&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="186em" />
