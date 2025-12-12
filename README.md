@@ -60,6 +60,6 @@
 # Stats
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=neevan0842&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="186em" width="375em" style="padding: 3px;"/>
-  <img src="https://github-readme-stats-one.vercel.app/api?username=neevan0842&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="186em" width="375em" style="padding: 3px;"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=neevan0842&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="186em" width="400em" style="padding: 3px;"/>
+  <img src="https://github-readme-stats-one.vercel.app/api?username=neevan0842&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="186em" width="400em" style="padding: 3px;"/>
 </div>
